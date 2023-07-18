@@ -1,4 +1,5 @@
-# Where everything resides:
+# ✨ **Where everything resides:**
 ###
-## as the names suggests, there is where everything is
+## 🛣 As the names suggests, there is where everything is 
 ###
+## 🌸 Note that everything here is *EXTREMELY* basic 
