@@ -1,4 +1,4 @@
-# 1:
+# Where everything resides:
 ###
-## Learning about Variables, Floating numbers, Booleans, Printing data types and more.
+## as the names suggests, there is where everything is
 ###
