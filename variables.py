@@ -1,19 +1,3 @@
-### Learning variables and everything related such as floating numbers, booleans and more
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Creating my first variable, this variable will represent the name of the user.
 #name = "Joe Mama"
 
