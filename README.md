@@ -2,4 +2,4 @@
 ###
 ## 🛣 As the names suggests, there is where everything is 
 ###
-## 🌸 Note that everything here is *EXTREMELY* basic 
+## 🌸 Note that all code in here is the *EXTREME* basic, nothing big unfortunately
