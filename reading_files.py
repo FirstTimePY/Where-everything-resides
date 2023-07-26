@@ -2,7 +2,7 @@
 
 try:
 #With the listed test file below, we open it and read its contents and print them
-    with open("C:\\Users\\Fannan\\Desktop\\testfolder\\testfile.txt") as file:
+    with open("C:\\Users\\User\\Desktop\\testfolder\\testfile.txt") as file:
         print(file.read())
 #Exception, if the file is not found, print the following
 except FileNotFoundError:
