@@ -54,4 +54,5 @@ passed_students = [f"{name} - {score}" if score >= 60 else f"{name} - FAILED" fo
 # Print the results in a neat and readable format
 print("=== Student Grades ===")
 for student_info in passed_students:
+    
     print(student_info)
